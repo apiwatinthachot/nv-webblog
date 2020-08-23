@@ -8,7 +8,7 @@ import UserEdit from '@/components/Users/EditUser'
 import UserShow from '@/components/Users/ShowUser'
 import Login from '@/components/Login'
 //comments
-import CommentIndex from  '@/components/Blogs/Index'
+import CommentIndex from  '@/components/Comments/Index'
 
 // Blogs
 import BlogIndex from '@/components/Blogs/Index'
